@@ -49,7 +49,16 @@ The organization of this document probably seems strange. That's because it's pa
 
 #### Ringtail Cat
 
-Here's where I want to include info on ringtail cats.
+![Ringtail Cat (courtesy of Virginia Zoo) ](img/ringtail_cat.jpg)
+We'll also learn about `knitr::include_graphics()`
+
+Some fun facts about Ringtail Cats:
+
+-They can rotate their back feet 180 degrees
+
+-They are not endangered, but they are very elusive
+
+-They are closely related to raccoons
 
 ###
 
